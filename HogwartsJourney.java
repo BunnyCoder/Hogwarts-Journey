@@ -54,9 +54,12 @@ public class HogwartsJourney {
             else if(sexJog.equals("masculino"))
                 System.out.println("Você estava escondido, com medo de seus irmãos de criação");
             Thread.sleep(1500);
-            System.out.println("");
+            System.out.println("Eles te encontram, mas por algum motivo, você reaparece no telhado do orfanato.");
+            Thread.sleep(1000);
+            System.out.println("Qual a sua reação? \nA) Uau.. \n B) Ufa. Aaahhh!? \n C) AH! Pelo menos a vista é bonita \n D) Eu.. posso fazer isso?");
             // esquema para o jogo: 4 opções de ação, cada uma com característica de cada casa
             // ver o total de perguntas do desenvolvimento, if (contador da casa > 50% total) = defina a casa
+            
             
             
             
